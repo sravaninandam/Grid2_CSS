@@ -1,0 +1,141 @@
+.first{
+   background-color:rgb(57, 105, 124) ;
+}
+.one{
+    margin-left: 100px;
+    margin-top: 100px;
+  float: left;
+
+}
+.two{
+  margin-left: 800px;
+  height: 500px;
+  width: 500px;
+  border-radius: 30px;
+  padding-top: 80px;
+
+}
+
+/* .second{
+    
+} */
+
+.secondone{
+    text-align: center;
+}
+.secondtwo{
+    float: left;
+    margin-left: 400px;
+}
+.secondthree{
+    float: left;
+    margin-left: 100px;
+}
+.secondfour{
+    float: left;
+    margin-left: 100px;
+}
+.secondfive{
+    margin-left: 950px;
+    
+}
+.Button button{
+    margin-left: 48%;
+    border: 2px solid grey;
+}
+.two1{
+    margin-left: 100px;
+
+}
+.two2{
+    margin-left: 100px;
+    float: left;
+}
+.two3{
+    padding-left: 400px;
+    margin-top: 35px;
+}
+.three{
+    background-color: rgb(243, 231, 231);
+    
+}
+.three1{
+    float: left;
+
+}
+.three2{
+    margin-left: 800px;
+    border-radius: 50px;
+}
+.four{
+    background-color:rgb(57, 105, 124) ;
+    
+}
+.fourfirst{
+   float: left;
+   margin-bottom: 100px;
+   
+}
+/* .four1{
+    
+} */
+.four1 img{
+    height: 400px;
+    width: 400px;
+    padding-top: 30px;
+    padding-left: 50px;
+    border-radius: 100px;
+    
+}
+.four1-1{
+   border: 2px solid rgb(117, 154, 169);
+   width: 200px;
+   text-align: center;
+   float: left;
+   margin-left: 30px;
+}
+.four1-2{
+    border: 2px solid rgb(117, 154, 169);
+   width: 200px;
+   text-align: center;
+   margin-left: 250px;
+}
+.four2{
+    text-align: center;
+    padding-top: 70px;
+}
+.four2-1{
+    border: 2px solid rgb(117, 154, 169);
+    width: 200px;
+    text-align: center;
+    margin-left: 250px; 
+    float: left;
+}
+.four2-2{
+    border: 2px solid rgb(117, 154, 169);
+    width: 200px;
+    text-align: center;
+    margin-left: 850px;
+    margin-left: 1000px;
+    
+}
+.four2-3{
+    border: 2px solid rgb(117, 154, 169);
+    width: 200px;
+    text-align: center;
+    margin-left: 250px;
+    float: left;
+    margin-top: 50px;
+}
+.four2-4{
+    border: 2px solid rgb(117, 154, 169);
+    width: 200px;
+    text-align: center;
+    margin-left: 1000px;
+    margin-top:50px ;
+    
+}
+
+.fourinside{
+ padding-top: 100px;
+}
